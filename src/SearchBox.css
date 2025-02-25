@@ -1,0 +1,18 @@
+.SearchBox {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#city {
+    color: rgb(185, 196, 255);
+    border-color: aqua;
+}
+
+.err {
+    color: rgb(41, 0, 0);
+    box-shadow: 2px 2px 18px rgb(255, 135, 135);
+    background-color: #ff8e8e;
+    border-radius: 1rem;
+    padding: 0 0.75rem 0 0.75rem;
+}
